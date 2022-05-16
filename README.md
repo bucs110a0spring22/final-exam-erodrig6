@@ -12,16 +12,19 @@ Please make sure you have completed the soot survey at:
     [soot.binghamton.edu](https://soot.binghamton.edu)
 
 Please list the urls for the APIs you used:
+http://dog-api.kinduff.com/api/facts
+https://catfact.ninja/fact?max_length=64
 
-Summary of Program:
+Summary of Program: This program creates a game by giving random dog or cat facts. The user has to determine if the fact is true or not. 
 
 Most Challenging topic in the course:
+Most Challenging topic in the course: Working with a team, some team members putting in no effort at all, and having different styles when coding 
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+All facts produced by the API are true, so I could have styled differently so that sometimes the facts are false (maybe use different apis?) although - the user would not know this 
 
 ## REFERENCES:
- < List any outside resources used >
+ geeks for geeks 
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+N/A
